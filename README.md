@@ -14,4 +14,4 @@ I'm skipping the actual quantum mechanics behind the processes. If any of you wi
 
 ## PDF versions
 
-2019-12-30: First upload. Introducing the concept of qubit, the Bloch sphere and the quantum NOT gate.
+2019-12-30: First upload. Introducing the concept of qubit, the Bloch sphere and single qubit quantum gates.
